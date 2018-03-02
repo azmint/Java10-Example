@@ -1,0 +1,1 @@
+package jp.test;public final class Main {	public static void main(String[] args) {		final var test = "ABC";		System.out.println(test);	}}
